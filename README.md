@@ -1,4 +1,4 @@
-\# Python Data Automation Tool
+# Python Data Automation Tool
 
 
 
@@ -6,35 +6,35 @@ A Python project for automating Excel/CSV data cleaning tasks.
 
 
 
-\## Features
+## Features
 
 
 
-\- Remove duplicate rows
+- Remove duplicate rows
 
-\- Fill missing values
+- Fill missing values
 
-\- Standardize column names
+- Standardize column names
 
-\- Export cleaned Excel files
+- Export cleaned Excel files
 
-\- Simple automation workflow
-
-
-
-\## Technologies
+- Simple automation workflow
 
 
 
-\- Python
-
-\- pandas
-
-\- openpyxl
+## Technologies
 
 
 
-\## Project Structure
+- Python
+
+- pandas
+
+- openpyxl
+
+
+
+## Project Structure
 
 
 
@@ -54,7 +54,7 @@ python-data-automation/
 
 
 
-\## How to Run
+## How to Run
 
 
 
@@ -76,15 +76,15 @@ python main.py
 
 
 
-\## Example Use Cases
+## Example Use Cases
 
 
 
-\- Data preprocessing
+- Data preprocessing
 
-\- Excel automation
+- Excel automation
 
-\- CSV cleaning
+- CSV cleaning
 
-\- Business reporting workflows
+- Business reporting workflows
 
